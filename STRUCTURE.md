@@ -1,5 +1,7 @@
 # UnykornX HydraGrid – Complete Skeleton Structure
 
+For color legend and end-to-end diagrams, see `packages/docs/DIAGRAMS.md`.
+
 Last Updated: November 12, 2025
 Status: **Phase 1 Complete ✓**
 
@@ -7,7 +9,7 @@ Status: **Phase 1 Complete ✓**
 
 ## Directory Tree
 
-```
+```text
 hydragrid/
 ├── .vscode/                          # VS Code workspace config
 │   ├── settings.json                 # Python formatting & linting
