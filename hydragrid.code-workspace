@@ -1,0 +1,51 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "hydragrid-root"
+    },
+    {
+      "path": "packages/engine-core",
+      "name": "engine-core"
+    },
+    {
+      "path": "packages/data-pipelines",
+      "name": "data-pipelines"
+    },
+    {
+      "path": "packages/strategies-stock",
+      "name": "strategies-stock"
+    },
+    {
+      "path": "packages/strategies-energy",
+      "name": "strategies-energy"
+    },
+    {
+      "path": "packages/swarm",
+      "name": "swarm"
+    },
+    {
+      "path": "packages/risk",
+      "name": "risk"
+    },
+    {
+      "path": "packages/analytics",
+      "name": "analytics"
+    },
+    {
+      "path": "packages/infra",
+      "name": "infra"
+    },
+    {
+      "path": "packages/web-portal",
+      "name": "web-portal"
+    },
+    {
+      "path": "packages/docs",
+      "name": "docs"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+  }
+}
