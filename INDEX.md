@@ -11,6 +11,7 @@
 | **README.md** | Project overview, quick start, phases | Everyone |
 | **STRUCTURE.md** | Complete directory tree with phase markers | Developers |
 | **ARCHITECTURE.md** | Full system design & principles | Architects, Phase 2+ builders |
+| **DIAGRAMS.md** | Color-coded diagrams and flow trees | Everyone |
 | **PHASE_GUIDE.md** | Phase-by-phase implementation roadmap | Phase 2+ builders |
 | **BUILDER_AI_GUIDE.md** | Instructions for Phase 2 builder-AI | Phase 2 builder |
 
@@ -64,6 +65,7 @@ python show_phase1_status.py
 ### Documentation
 - **Main**: `README.md`, `STRUCTURE.md` (this repo root)
 - **Deep Dive**: `packages/docs/ARCHITECTURE.md`, `packages/docs/PHASE_GUIDE.md`
+- **Diagrams**: `packages/docs/DIAGRAMS.md`
 - **CI/CD**: `.github/` – [PHASE 5+]
 
 ---
